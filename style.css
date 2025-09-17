@@ -1,0 +1,32 @@
+h1 {
+    color: #1a424d;
+    font-family: 'Franklin Gothic Medium';
+    background-color: rgb(241, 241, 224);
+}
+img{
+    width: 500px;
+    height: 350px;
+}
+#parágrafo1 {
+    color: #1a424d;
+}
+
+#parágrafo2 {
+    color: #235c6b;
+}
+
+#parágrafo3 {
+    color: #2b6d80;
+}
+
+#parágrafo4 {
+    color: #2b6f81;
+}
+
+#parágrafo5 {
+    color: #3589a0;
+}
+
+#parágrafo6 {
+  color: #3996af;
+}
